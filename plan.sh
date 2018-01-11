@@ -1,5 +1,5 @@
-pkg_origin=echohack
-pkg_name=dm4r
+pkg_origin=dm4r
+pkg_name=np-mongodb
 pkg_version=3.2.9
 pkg_description="Mongodb for National-Parks app"
 pkg_maintainer="echohack"
